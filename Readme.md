@@ -1,9 +1,10 @@
-My personal [Obsidian](https://obsidian.md/) vault template. A bottom-up approach to note-taking and organizing things I am interested in. It is in no way dogmatic, just one example of how you can use Obsidian. Take the parts you like and tailor them to your needs.
+# Rules
 
-See the article [How I use Obsidian](https://stephango.com/vault) on my site for a detailed explanation of this vault structure.
-
-## Get started
-
-1. [Download this vault](https://github.com/kepano/kepano-obsidian/archive/refs/heads/main.zip)
-2. Unzip the .zip file to a folder of your choosing
-3. Open Obsidian and create a new vault pointing to that folder
+- Avoid splitting content into multiple vaults.
+- Avoid folders for organization.
+- Avoid non-standard Markdown.
+- Always pluralize categories and tags.
+- Use internal links profusely.
+- Use `YYYY-MM-DD` dates everywhere.
+- Use the 7-point scale for ratings.
+- Keep [a single to-do list](https://stephango.com/todos) per week.
