@@ -1,18 +1,14 @@
 ---
-title: "An Illustrated Guide to OAuth"
+title: An Illustrated Guide to OAuth
 author:
-  - "[[Github]]"
-description: "OAuth was first introduced in 2007."
-source: "https://www.ducktyped.org/p/an-illustrated-guide-to-oauth"
+description: OAuth was first introduced in 2007.
+source: https://www.ducktyped.org/p/an-illustrated-guide-to-oauth
 language:
 license:
 created:
 lastUpdated: 2025-08-25
 tags:
-  - "github"
-  - "repository"
 categories:
-  - "[[Repositories]]"
 ---
 ![access token image](https://substackcdn.com/image/fetch/$s_!jI0X!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38e08e71-9534-4112-b466-bc8dd139253e_394x483.png)
 
