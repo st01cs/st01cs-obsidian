@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "4a0a40c1dd2cf856",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb1f9b0af8fe4977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d78dd1e4d55d1321",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/A Visual Guide to Quantization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Visual Guide to Quantization"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5745e5d5d3090a0b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ab52f547e9d1ba1d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "855193e052453cf6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "13338668096310d2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4886398689754673",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ba40871f4e769fd8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4a87f75e1963c637",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Clippings/A Visual Guide to Quantization.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "72efd3c70a5cb6e5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Clippings/A Visual Guide to Quantization.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d78dd1e4d55d1321",
+  "lastOpenFiles": [
+    "Clippings/「模型量化技术」可视化指南：A Visual Guide to Quantization.md"
+  ]
+}

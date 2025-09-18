@@ -1,0 +1,192 @@
+{
+  "workspaces": {
+    "Writer": {
+      "main": {
+        "id": "7f2330f3ba4c62fb",
+        "type": "split",
+        "children": [
+          {
+            "id": "520ee5dea6c71a85",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5cbcaa3753b418ec",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "599bb077be3c07c0",
+        "type": "split",
+        "children": [
+          {
+            "id": "46c666c1e77fd7bc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cbbcfbad2a543618",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "c6195d8cc3746dd7",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "52087e8900c0020f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a5e1ab54173e2d0d",
+        "type": "split",
+        "children": [
+          {
+            "id": "dd675b2bef8dad97",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "acaee35c658e585c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2025-09-09 1005 AI问卷.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-09-09 1005 AI问卷"
+                }
+              },
+              {
+                "id": "585c6fe56ba01ee6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "fcd3f3401f9e0862",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "2025-09-09 1005 AI问卷.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-09-09 1005 AI问卷"
+                }
+              },
+              {
+                "id": "85576c266b13f750",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "fb9a955085a1e790",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "command-palette:Open command palette": false,
+          "templates:Insert template": false,
+          "zk-prefixer:Create new unique note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false,
+          "bases:Create new base": false,
+          "obsidian-git:Open Git source control": false
+        }
+      },
+      "active": "5cbcaa3753b418ec",
+      "mtime": "2025-09-09T10:21:47+08:00"
+    }
+  },
+  "active": "Writer"
+}
