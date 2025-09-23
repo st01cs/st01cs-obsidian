@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/A Visual Guide to Quantization.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Visual Guide to Quantization"
+              "title": "Readme"
             }
           }
         ]
@@ -146,6 +146,7 @@
   },
   "active": "d78dd1e4d55d1321",
   "lastOpenFiles": [
+    "Clippings/A Visual Guide to Quantization.md",
     "Clippings/「模型量化技术」可视化指南：A Visual Guide to Quantization.md"
   ]
 }
