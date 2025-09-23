@@ -19,3 +19,10 @@ url: https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/
 - 正则判断有没有Action
 	- 有Action则调用
 	- 没有Action结束
+
+# [LangGraphh Components ](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/l7rgk/langgraph-components)
+
+LangGraph实现同一个Agent
+
+# [ Agentic Search Tools](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/oj6p9/agentic-search-tools)
+
