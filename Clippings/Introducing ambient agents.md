@@ -1,13 +1,15 @@
 ---
-title: "Introducing ambient agents"
-source: "https://blog.langchain.com/introducing-ambient-agents/"
+title: Introducing ambient agents
+source: https://blog.langchain.com/introducing-ambient-agents/
 author:
   - "[[Harrison Chase]]"
 published: 2025-01-15
 created: 2025-09-26
-description: "Most AI apps today follow a familiar chat pattern (\"chat\" UX). Though easy to implement, they create unnecessary interaction overhead, limit the ability of us humans to scale ourselves, and fail to use the full potential of LLMs.Over the past six months, we've been exploring a different approach at"
+description: Most AI apps today follow a familiar chat pattern ("chat" UX). Though easy to implement, they create unnecessary interaction overhead, limit the ability of us humans to scale ourselves, and fail to use the full potential of LLMs.Over the past six months, we've been exploring a different approach at
 tags:
-  - "clippings"
+  - clippings
+  - langgraph
+  - agent
 ---
 Most AI apps today follow a familiar chat pattern (["chat" UX](https://blog.langchain.com/ux-for-agents-part-1-chat-2/)). Though easy to implement, they create unnecessary interaction overhead, limit the ability of us humans to scale ourselves, and fail to use the full potential of LLMs.
 
