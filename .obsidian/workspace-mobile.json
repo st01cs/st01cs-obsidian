@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "Readme"
             }
+          },
+          {
+            "id": "bea8928c9d8f6be7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "身体检测记录.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "身体检测记录"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,6 +109,20 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "4986495cbb0c7cb5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
       }
     ],
     "currentTab": 0
@@ -144,8 +183,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "d78dd1e4d55d1321",
+  "active": "bea8928c9d8f6be7",
   "lastOpenFiles": [
+    "Readme.md",
+    "身体检测记录.md",
+    "线性代数的视觉化笔记.md",
+    "热搜Trading.md",
+    "书背景.md",
+    "Untitled.md",
+    "Templates/Bases/Repositories.base",
+    "Obsidian-xterm.md",
+    "LLM知识体系.md",
+    "LangGraph Roadmap.md",
+    "Heynote + Git.md",
+    "Deep Research Roadmap.md",
+    "Coding Agent 代码质量提升.md",
+    "Clippings/独立数字音乐作者  Independent Digital Musician.md",
+    "Clippings/Writing documentation for AI best practices  kapa.ai docs.md",
+    "Clippings/Tiny LLM - LLM Serving in a Week.md",
+    "Clippings/My Experiments with NotebookLM for Teaching.md",
+    "Categories/Repositories.md",
+    "AI Agents in LangGraph.md",
+    "2025-09-09 1005 AI问卷.md",
+    "2025-09-08 2123 时间片App.md",
     "Clippings/A Visual Guide to Quantization.md",
     "Clippings/「模型量化技术」可视化指南：A Visual Guide to Quantization.md"
   ]
