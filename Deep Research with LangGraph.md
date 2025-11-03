@@ -1,0 +1,1 @@
+https://academy.langchain.com/courses/deep-research-with-langgraph

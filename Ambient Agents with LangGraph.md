@@ -1,0 +1,1 @@
+https://academy.langchain.com/courses/ambient-agents
