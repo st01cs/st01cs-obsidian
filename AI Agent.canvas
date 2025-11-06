@@ -4,14 +4,17 @@
 		{"id":"9d31b383d2ac96ab","type":"text","text":"AI Agent","x":-125,"y":-30,"width":205,"height":60},
 		{"id":"74b012a3563c664c","type":"file","file":"LangGraph Roadmap.md","x":200,"y":-120,"width":300,"height":400},
 		{"id":"ab19bc5f4e0ec389","type":"file","file":"Ambient Agents with LangGraph.md","x":1160,"y":-153,"width":427,"height":129},
-		{"id":"4b571133f476afec","type":"file","file":"Deep Research with LangGraph.md","x":1160,"y":-480,"width":427,"height":157,"color":"2"},
 		{"id":"81fd856a370a6e07","type":"file","file":"dexter 金融研究.md","x":200,"y":443,"width":400,"height":400},
-		{"id":"2ceb1241f174bd69","type":"file","file":"Clippings/Open Deep Research Tutorial.md","x":1776,"y":-598,"width":400,"height":400,"color":"2"},
-		{"id":"dde97cd6207c4fd0","type":"file","file":"Clippings/agent-lightning The absolute trainer to light up AI agents..md","x":2400,"y":-1120,"width":400,"height":400},
-		{"id":"10fc0b9e80c88f7c","x":1660,"y":42,"width":400,"height":400,"color":"3","type":"file","file":"Clippings/deep-agents-from-scratch.md"},
+		{"id":"2ceb1241f174bd69","type":"file","file":"Clippings/Open Deep Research Tutorial.md","x":1776,"y":-598,"width":464,"height":400,"color":"2"},
+		{"id":"10fc0b9e80c88f7c","type":"file","file":"Clippings/deep-agents-from-scratch.md","x":1660,"y":42,"width":400,"height":400,"color":"3"},
 		{"id":"8f22723367ef7acd","type":"file","file":"Clippings/Custom UI for Deep Agents.md","x":2176,"y":42,"width":400,"height":400,"color":"3"},
 		{"id":"82708308c3a55718","type":"file","file":"Deep Agents with LangGraph.md","x":1160,"y":162,"width":400,"height":160,"color":"3"},
-		{"id":"faba1e9de2b4ca9c","type":"file","file":"Clippings/sagar-n deepagents.md","x":2740,"y":42,"width":400,"height":400,"color":"3"}
+		{"id":"faba1e9de2b4ca9c","type":"file","file":"Clippings/sagar-n deepagents.md","x":2740,"y":42,"width":400,"height":400,"color":"3"},
+		{"id":"4b571133f476afec","type":"file","file":"Deep Research with LangGraph.md","x":1160,"y":-535,"width":427,"height":274,"color":"2"},
+		{"id":"dde97cd6207c4fd0","type":"file","file":"Clippings/agent-lightning The absolute trainer to light up AI agents..md","x":2176,"y":-1320,"width":400,"height":400},
+		{"id":"631d75e65203e25a","type":"file","file":"Clippings/ai-hedge-fund An AI Hedge Fund Team.md","x":2540,"y":-935,"width":400,"height":400},
+		{"id":"b7a0436bca7783d4","type":"file","file":"Clippings/TradingAgents TradingAgents Multi-Agents LLM Financial Trading Framework.md","x":3080,"y":-598,"width":400,"height":400},
+		{"id":"632ee4415eb42874","x":3667,"y":-603,"width":533,"height":400,"type":"file","file":"Clippings/TradingAgents-CN 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版.md"}
 	],
 	"edges":[
 		{"id":"ac50fd2f911a2362","fromNode":"9d31b383d2ac96ab","fromSide":"right","toNode":"74b012a3563c664c","toSide":"left"},
@@ -24,6 +27,9 @@
 		{"id":"a30fd8f21a06b6ac","fromNode":"4b571133f476afec","fromSide":"right","toNode":"2ceb1241f174bd69","toSide":"left"},
 		{"id":"1fe993069d22acb7","fromNode":"2ceb1241f174bd69","fromSide":"top","toNode":"dde97cd6207c4fd0","toSide":"left"},
 		{"id":"d4805ccd121177b6","fromNode":"82708308c3a55718","fromSide":"right","toNode":"10fc0b9e80c88f7c","toSide":"left"},
-		{"id":"6fb5cdcb452f9969","fromNode":"10fc0b9e80c88f7c","fromSide":"right","toNode":"8f22723367ef7acd","toSide":"left"}
+		{"id":"6fb5cdcb452f9969","fromNode":"10fc0b9e80c88f7c","fromSide":"right","toNode":"8f22723367ef7acd","toSide":"left"},
+		{"id":"46f9bfea5e00baba","fromNode":"2ceb1241f174bd69","fromSide":"right","toNode":"631d75e65203e25a","toSide":"left"},
+		{"id":"0282c195c1a54b0b","fromNode":"2ceb1241f174bd69","fromSide":"right","toNode":"b7a0436bca7783d4","toSide":"left"},
+		{"id":"67896ea8c39f2c2b","fromNode":"b7a0436bca7783d4","fromSide":"right","toNode":"632ee4415eb42874","toSide":"left"}
 	]
 }
