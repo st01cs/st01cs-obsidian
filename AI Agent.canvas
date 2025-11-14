@@ -11,10 +11,10 @@
 		{"id":"82708308c3a55718","type":"file","file":"Deep Agents with LangGraph.md","x":1160,"y":162,"width":400,"height":160,"color":"3"},
 		{"id":"faba1e9de2b4ca9c","type":"file","file":"Clippings/sagar-n deepagents.md","x":2740,"y":42,"width":400,"height":400,"color":"3"},
 		{"id":"4b571133f476afec","type":"file","file":"Deep Research with LangGraph.md","x":1160,"y":-535,"width":427,"height":274,"color":"2"},
-		{"id":"dde97cd6207c4fd0","type":"file","file":"Clippings/agent-lightning The absolute trainer to light up AI agents..md","x":2176,"y":-1320,"width":400,"height":400},
-		{"id":"631d75e65203e25a","type":"file","file":"Clippings/ai-hedge-fund An AI Hedge Fund Team.md","x":2540,"y":-935,"width":400,"height":400},
 		{"id":"b7a0436bca7783d4","type":"file","file":"Clippings/TradingAgents TradingAgents Multi-Agents LLM Financial Trading Framework.md","x":3080,"y":-598,"width":400,"height":400},
-		{"id":"632ee4415eb42874","x":3667,"y":-603,"width":533,"height":400,"type":"file","file":"Clippings/TradingAgents-CN 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版.md"}
+		{"id":"632ee4415eb42874","type":"file","file":"Clippings/TradingAgents-CN 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版.md","x":3667,"y":-603,"width":533,"height":400},
+		{"id":"dde97cd6207c4fd0","type":"file","file":"Clippings/agent-lightning The absolute trainer to light up AI agents..md","x":2176,"y":-1680,"width":400,"height":400},
+		{"id":"631d75e65203e25a","type":"file","file":"Clippings/ai-hedge-fund An AI Hedge Fund Team.md","x":2576,"y":-1200,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"ac50fd2f911a2362","fromNode":"9d31b383d2ac96ab","fromSide":"right","toNode":"74b012a3563c664c","toSide":"left"},
