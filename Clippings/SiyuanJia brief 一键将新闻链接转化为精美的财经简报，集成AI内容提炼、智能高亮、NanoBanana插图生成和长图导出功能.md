@@ -1,0 +1,223 @@
+---
+title: "SiyuanJia/brief: 一键将新闻链接转化为精美的财经简报，集成AI内容提炼、智能高亮、NanoBanana插图生成和长图导出功能"
+source: "https://github.com/SiyuanJia/brief"
+author:
+  - "[[SiyuanJia]]"
+published:
+created: 2025-11-19
+description: "一键将新闻链接转化为精美的财经简报，集成AI内容提炼、智能高亮、NanoBanana插图生成和长图导出功能 - SiyuanJia/brief"
+tags:
+  - "clippings"
+---
+**[brief](https://github.com/SiyuanJia/brief)** Public
+
+一键将新闻链接转化为精美的财经简报，集成AI内容提炼、智能高亮、NanoBanana插图生成和长图导出功能
+
+[Open in github.dev](https://github.dev/) [Open in a new github.dev tab](https://github.dev/) [Open in codespace](https://github.com/codespaces/new/SiyuanJia/brief?resume=1)
+
+<table><thead><tr><th colspan="2"><span>Name</span></th><th colspan="1"><span>Name</span></th><th><p><span>Last commit message</span></p></th><th colspan="1"><p><span>Last commit date</span></p></th></tr></thead><tbody><tr><td colspan="3"><p><span><a href="https://github.com/SiyuanJia/brief/commit/c296607b064d98059386a75981916ffd39340212">chore(analytics): add Google Analytics gtag in &lt;head&gt; (G-3JDC66L0SP)</a></span></p><p><span><a href="https://github.com/SiyuanJia/brief/commit/c296607b064d98059386a75981916ffd39340212">c296607</a> ·</span></p><p><a href="https://github.com/SiyuanJia/brief/commits/main/"><span><span><span>20 Commits</span></span></span></a></p></td></tr><tr><td colspan="2"><p><a href="https://github.com/SiyuanJia/brief/tree/main/tests">tests</a></p></td><td colspan="1"><p><a href="https://github.com/SiyuanJia/brief/tree/main/tests">tests</a></p></td><td><p><a href="https://github.com/SiyuanJia/brief/commit/c5f8cf026dad7686f2924dc45d3c0a12fa1848de">test: add highlight snapshot tests (browser page)</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/SiyuanJia/brief/blob/main/.gitignore">.gitignore</a></p></td><td colspan="1"><p><a href="https://github.com/SiyuanJia/brief/blob/main/.gitignore">.gitignore</a></p></td><td><p><a href="https://github.com/SiyuanJia/brief/commit/c5f8cf026dad7686f2924dc45d3c0a12fa1848de">test: add highlight snapshot tests (browser page)</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/SiyuanJia/brief/blob/main/README.md">README.md</a></p></td><td colspan="1"><p><a href="https://github.com/SiyuanJia/brief/blob/main/README.md">README.md</a></p></td><td><p><a href="https://github.com/SiyuanJia/brief/commit/c2e09e6f5130167ce1b07af3a69911b5d340f5d0">prompt: cap red [R] highlights to ≤3 per section; docs: update README…</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/SiyuanJia/brief/blob/main/api_new.js">api_new.js</a></p></td><td colspan="1"><p><a href="https://github.com/SiyuanJia/brief/blob/main/api_new.js">api_new.js</a></p></td><td><p><a href="https://github.com/SiyuanJia/brief/commit/883756a98c0870f1e9ebdb95762833f0002f85ae">chore: switch to obfuscated api_new.js in index.html; remove api.js</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/SiyuanJia/brief/blob/main/config.js">config.js</a></p></td><td colspan="1"><p><a href="https://github.com/SiyuanJia/brief/blob/main/config.js">config.js</a></p></td><td><p><a href="https://github.com/SiyuanJia/brief/commit/c2e09e6f5130167ce1b07af3a69911b5d340f5d0">prompt: cap red [R] highlights to ≤3 per section; docs: update README…</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/SiyuanJia/brief/blob/main/download.js">download.js</a></p></td><td colspan="1"><p><a href="https://github.com/SiyuanJia/brief/blob/main/download.js">download.js</a></p></td><td><p><a href="https://github.com/SiyuanJia/brief/commit/e04e44bd4a9ec28cfe9aa6fd9c06d90b0a7ea9b1">refactor: split API/download modules; wire index.html to prompts.js +…</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/SiyuanJia/brief/blob/main/index.html">index.html</a></p></td><td colspan="1"><p><a href="https://github.com/SiyuanJia/brief/blob/main/index.html">index.html</a></p></td><td><p><a href="https://github.com/SiyuanJia/brief/commit/c296607b064d98059386a75981916ffd39340212">chore(analytics): add Google Analytics gtag in &lt;head&gt; (G-3JDC66L0SP)</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/SiyuanJia/brief/blob/main/prompts.js">prompts.js</a></p></td><td colspan="1"><p><a href="https://github.com/SiyuanJia/brief/blob/main/prompts.js">prompts.js</a></p></td><td><p><a href="https://github.com/SiyuanJia/brief/commit/c2e09e6f5130167ce1b07af3a69911b5d340f5d0">prompt: cap red [R] highlights to ≤3 per section; docs: update README…</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/SiyuanJia/brief/blob/main/script.js">script.js</a></p></td><td colspan="1"><p><a href="https://github.com/SiyuanJia/brief/blob/main/script.js">script.js</a></p></td><td><p><a href="https://github.com/SiyuanJia/brief/commit/e04e44bd4a9ec28cfe9aa6fd9c06d90b0a7ea9b1">refactor: split API/download modules; wire index.html to prompts.js +…</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/SiyuanJia/brief/blob/main/styles.css">styles.css</a></p></td><td colspan="1"><p><a href="https://github.com/SiyuanJia/brief/blob/main/styles.css">styles.css</a></p></td><td><p><a href="https://github.com/SiyuanJia/brief/commit/bb9e150bafe800a09dda49650613d582812cfd95">🔧 修复下载图片中的换行问题</a></p></td><td></td></tr><tr><td colspan="3"></td></tr></tbody></table>
+
+## 财经时事资讯简报生成器
+
+> 一键将新闻链接转化为精美的财经简报，集成AI内容提炼、智能高亮、自动插图生成和长图导出功能
+
+## ✨ 产品亮点
+
+### 🎯 核心价值
+
+- **一键生成** ：输入新闻链接，自动生成专业级财经简报
+- **AI驱动** ：智能提炼关键信息，自动标记重点内容
+- **视觉精美** ：手绘风格插图 + 多彩高亮 + 专业排版
+- **即用即走** ：无需注册，浏览器直接使用
+
+### 🚀 产品流程
+
+```
+📰 输入新闻链接 → 🔗 智能爬取内容 → 🤖 AI分析提炼 → 🎨 生成配图 → 📄 渲染简报 → 📥 导出长图
+```
+
+#### 第一步：智能内容获取
+
+- 支持主流新闻网站链接解析
+- 自动过滤广告、评论等无关内容
+- 提取纯净的新闻正文
+
+#### 第二步：AI智能分析
+
+- **结构化提炼** ：自动将长文分解为2-6个逻辑模块
+- **关键信息标记** ：智能识别重要数据、观点、结论
+- **多彩高亮系统** ：
+	- 🔴 红色：关键结论、重要观点、核心结论、重要现象（每个子模块不超过 3 处）
+	- 🟡 黄色：趋势、背景脉络、风险提示（克制标注，每个子模块最多 1–2 条）
+
+#### 第三步：自动插图生成
+
+- 根据内容自动生成手绘风格图表
+- 统一的视觉风格：米色背景(#f5f2e8) + 彩色铅笔风格
+- 包含真实数据标注和财经图标元素
+
+#### 第四步：专业简报渲染
+
+- 类杂志排版设计
+- 响应式布局，支持移动端
+- 自动生成二维码，便于分享
+
+## 🎨 设计亮点
+
+### 视觉设计
+
+- **配色方案** ：温暖米色背景 + 四色高亮系统，既专业又温和
+- **字体选择** ：Noto Sans SC，确保中文显示效果
+- **布局设计** ：卡片式分段，清晰的信息层次
+- **品牌元素** ：渐变色标题下划线 + 精致的品牌胶囊
+
+### 交互设计
+
+- **进度可视化** ：四步骤圆形图标，实时显示处理进度
+- **加载体验** ：优雅的加载动画 + 详细的状态提示
+- **日期编辑** ：点击即可修改简报日期
+- **示例引导** ：内置示例文章，降低使用门槛
+
+### 移动端优化
+
+- 响应式设计，完美适配手机屏幕
+- 触摸友好的按钮尺寸
+- 移动端专属的布局调整
+
+## 🔧 技术架构
+
+### 前端技术栈
+
+- **纯原生实现** ：HTML5 + CSS3 + Vanilla JavaScript
+- **无框架依赖** ：轻量级，加载速度快
+- **第三方库** ：
+	- dom-to-image：长图导出
+	- qrcode.js：二维码生成
+	- FileSaver.js：文件下载
+
+### 后端架构
+
+- **阿里云函数计算** ：Serverless架构，按需付费
+
+### 前端文件结构（最新）
+
+- index.html：页面骨架与脚本加载顺序（config.js → prompts.js → api.js → download.js → script.js）
+- styles.css：整体样式与配色
+- config.js：示例文章配置（用于引导）
+- prompts.js：AI 提示词模板（内容提炼/插图生成）
+- api.js：所有外部 API 调用与配置（Unifuns 经代理；Gemini/NanoBanana 直连 302.ai）
+- download.js：长图导出与下载逻辑（PC 直接下载；移动端失败提示改用 PC 或截屏）
+- script.js：页面主流程、渲染与交互逻辑
+- **统一代理设计** ：一个函数处理三类上游服务
+	- Unifuns：网页内容提取
+	- Gemini 2.5 Flash：AI内容分析
+	- Nano Banana：AI图片生成
+- **安全设计** ：API密钥完全隐藏在服务端环境变量
+
+### 核心算法
+
+#### 方括号标签高亮（R/Y）
+
+前端不再做“高亮与正文匹配”，而是解析模型输出中的方括号标签并渲染：
+
+- 标注语法： `[R]…[/R]` （红）和 `[Y]…[/Y]` （黄）
+- 渲染方式：用正则将标签替换为 `span.highlight-red` / `span.highlight-yellow`
+- 约束（由提示词严格约束模型输出，并在前端做基本校验）：
+	- 尽量整句标记；数字/日期必须完整
+	- 严禁嵌套或交错
+	- 数量控制：每段总重点 2–5 条；红色不超过 3 处；黄色最多 1–2 条；避免整段覆盖（≤40%）
+
+#### 内容结构化提炼
+
+- **模块化分割** ：智能识别文章逻辑结构
+- **信息分类** ：自动区分数据、观点、引用
+- **真实性保证** ：所有数据必须来源于原文，严禁编造
+
+## 🛡️ 安全特性
+
+### API密钥保护
+
+- **零前端暴露** ：前端代码不包含任何API密钥
+- **环境变量管理** ：所有密钥存储在服务端环境变量
+- **统一代理转发** ：前端请求统一通过代理函数转发
+
+### CORS安全策略
+
+- 白名单机制，仅允许指定域名访问
+- 支持开发环境和生产环境分离配置
+
+## 📱 使用体验
+
+### 操作流程
+
+1. **点击"输入链接"按钮**
+2. **粘贴新闻URL或选择示例文章**
+3. **点击"生成简报"，等待AI处理**
+4. **查看生成的精美简报**
+5. **点击下载按钮导出长图**
+
+### 支持的新闻源
+
+- 主流财经媒体网站
+- 新闻门户网站
+- 官方机构发布页面
+
+### 导出功能
+
+- **高清长图** ：适合社交媒体分享
+- **包含二维码** ：便于回溯原文链接
+- **品牌标识** ：专业的视觉识别
+
+## 🎯 应用场景
+
+- **投资研究** ：快速整理市场资讯
+- **内容创作** ：财经自媒体素材制作
+- **团队协作** ：内部信息分享
+- **学习笔记** ：财经知识整理
+
+## 🔮 技术创新点
+
+1. **多服务统一代理** ：创新的后端架构设计，一个函数处理多个上游API
+2. **智能高亮算法** ：三层容错机制，解决AI生成内容与原文不完全匹配的问题
+3. **视觉一致性** ：自动化的插图风格控制，确保视觉效果统一
+4. **无服务器架构** ：完全基于云函数，零运维成本
+
+## 🚀 部署说明
+
+### 环境要求
+
+- 阿里云函数计算服务
+- 302.ai API账号（Unifuns + Gemini + Nano Banana）
+
+### 快速部署
+
+1. 将 `multi_handler.py` 打包上传到阿里云函数
+2. 配置环境变量（API密钥和端点）
+3. 设置CORS白名单
+4. 更新前端代理地址
+
+详细部署步骤请参考项目文档。
+
+---
+
+**让AI为你的财经资讯增添专业与美感** ✨
+
+## Releases
+
+No releases published
+
+## Packages
+
+No packages published  
+
+## Deployments 21
+
+- [github-pages](https://github.com/SiyuanJia/brief/deployments/github-pages)
+
+[\+ 20 deployments](https://github.com/SiyuanJia/brief/deployments)
+
+## Languages
+
+- [JavaScript 55.2%](https://github.com/SiyuanJia/brief/search?l=javascript)
+- [CSS 23.2%](https://github.com/SiyuanJia/brief/search?l=css)
+- [HTML 21.6%](https://github.com/SiyuanJia/brief/search?l=html)
